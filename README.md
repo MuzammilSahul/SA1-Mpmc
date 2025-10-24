@@ -4,7 +4,7 @@
 
    To Write an assembly language program in 8051 to exchange the contents of two memory blocks of equal length.
 ---
-##APPARATUS REQUIRED:
+## APPARATUS REQUIRED:
 
    - PERSONAL COMPUTER
     
@@ -59,7 +59,7 @@ END
 
 ## RESULT:
 
-Thus the program  to exchange thecontents of two memory blocks of equal length is done and output is displayed
+Thus the program  to exchange thecontents of two memory blocks of equal length is done and output is displayed.
 
 ---
   
