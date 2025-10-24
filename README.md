@@ -3,18 +3,18 @@
 ##AIM:
 
    To Write an assembly language program in 8051 to exchange the contents of two memory blocks of equal length.
-
+---
 ##APPARATUS REQUIRED:
 
-    PERSONAL COMPUTER
+   - PERSONAL COMPUTER
     
-    Keil Vision
-
+   - Keil Vision
+---
   ##PROGRAM:
 
   ASSEMBLY LANGUAGE PROGRAM IN 8051 TO EXCHANGE CONTENTS OF TWO MEMORY BLOCKS IN EQUAL LENGTH
 
-'''ASM
+```asm
 
 ORG 00H
 SJMP 30H
